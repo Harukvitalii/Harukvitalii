@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harukvitalii
 - 👀 I’m interested in pr dev
-- 🌱 I’m currently learning JS, ES6, pythonBOTs
+- 🌱 I’m currently learning QT5, Web3, aiohttp, selenium
 - 💞️ I’m looking to collaborate on my projects
 - 📫 TG @vetallb
 
